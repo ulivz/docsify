@@ -30,7 +30,7 @@
     "pub": "sh build/release.sh"
   },
   "dependencies": {
-    "marked": "^0.3.6",
+    "marked": "^1.1.1",
     "prismjs": "^1.6.0",
     "tinydate": "^1.0.0",
     "zoom-image": "^0.1.4"
